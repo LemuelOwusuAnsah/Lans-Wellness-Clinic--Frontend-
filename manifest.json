@@ -1,0 +1,23 @@
+{
+    "name": "Lans Wellness Clinic",
+    "short_name": "Lans Wellness",
+    "description": "Precision health, advanced diagnostics, and integrative care.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#02457a",
+    "theme_color": "#02457a",
+    "orientation": "portrait",
+    "categories": ["health", "medical", "wellness"],
+    "prefer_related_applications": false,
+    "lang": "en",
+    "dir": "ltr",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🏥%3C/text%3E%3C/svg%3E",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
